@@ -5,6 +5,8 @@ title: IMMERSE Log
 
 ### Week 1: April 26, 2021
 
+#[My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+
 * **Monday**:
   * computer setup
   * linux tutorial
