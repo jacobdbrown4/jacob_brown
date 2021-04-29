@@ -14,7 +14,11 @@ title: IMMERSE Log
   * start looking at spydrnet
   * other various computer setup things
 * **Wednesday**: 
-* **Thursday**: 
+  * meetings
+  * learn Git
+* **Thursday**:
+  * learn Git
+  * finish website setup 
 * **Friday**:
 
 ### Week 2: May 3, 2021
