@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 ---
 
-###Regular Schedule
+### Regular Schedule
 
 * **Monday**:
   * TBD
@@ -16,5 +16,5 @@ title: Schedule
 * **Friday**:
   * TBD
 
-###When I'll Be Out of Town
+### When I'll Be Out of Town
 
