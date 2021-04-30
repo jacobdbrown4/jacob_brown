@@ -17,11 +17,14 @@ title: IMMERSE Log
   * other various computer setup things
 * **Wednesday**: 
   * meetings
-  * learn Git
+  * BootCamp - Git
 * **Thursday**:
   * learn Git
   * finish website setup 
 * **Friday**:
+  * meet with Dallin about SpydrNet
+  * learn more SpydrNet
+  * Bootcamp - Github
 
 ### Week 2: May 3, 2021
 * **Monday**:
