@@ -20,11 +20,13 @@ title: IMMERSE Log
   * BootCamp - Git
 * **Thursday**:
   * learn Git
-  * finish website setup 
+  * finish website setup
+  * ethics outreach reading 
 * **Friday**:
   * meet with Dallin about SpydrNet
   * learn more SpydrNet
-  * Bootcamp - Github
+  * ethics outreach reading
+  * BootCamp - Github
 
 ### Week 2: May 3, 2021
 * **Monday**:
