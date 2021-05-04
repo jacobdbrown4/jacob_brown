@@ -5,6 +5,17 @@ title: IMMERSE Log
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
+### Week 2: May 3, 2021
+
+* **Monday**:
+  * Tools meeting
+  * Bootcamp - VSCode
+  * Work on assigned SpyDrNet issues
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 1: April 26, 2021
  
 * **Monday**:
@@ -27,10 +38,3 @@ title: IMMERSE Log
   * learn more SpydrNet
   * ethics outreach reading
   * BootCamp - Github
-
-### Week 2: May 3, 2021
-* **Monday**:
-* **Tuesday**:
-* **Wednesday**:
-* **Thursday**:
-* **Friday**:
