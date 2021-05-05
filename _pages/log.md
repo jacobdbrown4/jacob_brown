@@ -12,7 +12,14 @@ title: IMMERSE Log
   * Bootcamp - VSCode
   * Work on assigned SpyDrNet issues
 * **Tuesday**:
+  * Get started on fixing minor errors in SpyDrNet documentation
+  * Work on Issue #130 for SpyDrNet
+  * Figure out parts of SpyDrNet like instances, references, children, parents
+  * Try out SpyDrNet by parsing my FourFunctions project from 220
 * **Wednesday**:
+  * begin documenting things I've done to learn SpyDrNet
+  * meetings
+  * Bootcamp - make
 * **Thursday**:
 * **Friday**:
 
