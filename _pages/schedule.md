@@ -17,5 +17,5 @@ title: Schedule
   * 9:30 AM - 3:30 PM
 
 ### When I'll Be Out of Town
-  * Possibly the 2nd week of July
-  * Part of (possibly all of) the first week of August
+  * 2nd week of July
+  * First week in August
