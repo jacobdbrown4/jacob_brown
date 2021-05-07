@@ -24,6 +24,9 @@ title: IMMERSE Log
   * learn more about cables, wires, ports, and pins in SpyDrNet
   * write functions to display information about netlists
 * **Friday**:
+  * continue to learn cables, wires, ports, pins
+  * talk to Dallin about inner pins, outer pins, metadata, EDIF.properties and Verilog.properties dictionaries
+  * practice writing various python functions to show connectivity of design
 
 ### Week 1: April 26, 2021
  
