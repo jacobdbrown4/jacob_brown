@@ -21,6 +21,8 @@ title: IMMERSE Log
   * meetings
   * Bootcamp - make
 * **Thursday**:
+  * learn more about cables, wires, ports, and pins in SpyDrNet
+  * write functions to display information about netlists
 * **Friday**:
 
 ### Week 1: April 26, 2021
