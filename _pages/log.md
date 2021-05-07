@@ -27,6 +27,7 @@ title: IMMERSE Log
   * continue to learn cables, wires, ports, pins
   * talk to Dallin about inner pins, outer pins, metadata, EDIF.properties and Verilog.properties dictionaries
   * practice writing various python functions to show connectivity of design
+  * Bootcamp - CMake
 
 ### Week 1: April 26, 2021
  
