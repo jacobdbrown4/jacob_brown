@@ -5,6 +5,19 @@ title: IMMERSE Log
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
+
+## Week 3: May 10, 2021
+
+* **Monday**:
+  * tools meeting
+  * Bootcamp - Python
+  * keep working on beginning learning SpyDrNet documentation
+  * improve print connections function for netlists
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 2: May 3, 2021
 
 * **Monday**:
