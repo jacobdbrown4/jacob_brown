@@ -16,7 +16,8 @@ title: IMMERSE Log
 * **Tuesday**:
   * finish functions for displaying design information
   * clean up Learning SpyDrNet google doc
-  * make more edits to mostly spelling in documentation 
+  * make more edits to mostly spelling in documentation
+  * make markdown version of cheat sheet 
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
