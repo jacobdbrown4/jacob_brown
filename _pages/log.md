@@ -15,7 +15,7 @@ title: IMMERSE Log
   * improve print connections function for netlists
 * **Tuesday**:
   * finish functions for displaying design information
-  * clean up Learning SpyDrNet google doc
+  * clean up Learning SpyDrNet google doc 
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
