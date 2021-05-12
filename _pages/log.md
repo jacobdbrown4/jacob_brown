@@ -19,20 +19,22 @@ title: IMMERSE Log
   * make more edits to mostly spelling in documentation
   * make markdown version of cheat sheet 
 * **Wednesday**:
+  * add definitions cheat sheet and tips for learning spydrnet to the wiki
+  * also learned more markdown as I did that
 * **Thursday**:
 * **Friday**:
 
 ### Week 2: May 3, 2021
 
 * **Monday**:
-  * Tools meeting
-  * Bootcamp - VSCode
-  * Work on assigned SpyDrNet issues
+  * tools meeting
+  * bootcamp - VSCode
+  * work on assigned SpyDrNet issues
 * **Tuesday**:
-  * Get started on fixing minor errors in SpyDrNet documentation
-  * Work on Issue #130 for SpyDrNet
-  * Figure out parts of SpyDrNet like instances, references, children, parents
-  * Try out SpyDrNet by parsing my FourFunctions project from 220
+  * get started on fixing minor errors in SpyDrNet documentation
+  * work on Issue #130 for SpyDrNet
+  * figure out parts of SpyDrNet like instances, references, children, parents
+  * try out SpyDrNet by parsing my FourFunctions project from 220
 * **Wednesday**:
   * begin documenting things I've done to learn SpyDrNet
   * meetings
