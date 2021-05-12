@@ -6,21 +6,26 @@ title: IMMERSE Log
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
 
-## Week 3: May 10, 2021
+### Week 3: May 10, 2021
 
 * **Monday**:
   * tools meeting
   * Bootcamp - Python
   * keep working on beginning learning SpyDrNet documentation
   * improve print connections function for netlists
+  * read articles for Ethics
 * **Tuesday**:
   * finish functions for displaying design information
   * clean up Learning SpyDrNet google doc
   * make more edits to mostly spelling in documentation
-  * make markdown version of cheat sheet 
+  * make markdown version of cheat sheet
+  * reviewed other SpyDrNet examples in the documentation 
+  * finish reading articles for Ethics
 * **Wednesday**:
   * add definitions cheat sheet and tips for learning spydrnet to the wiki
   * also learned more markdown as I did that
+  * meetings
+  * Bootcamp - python
 * **Thursday**:
 * **Friday**:
 
