@@ -3,7 +3,7 @@ layout: default
 title: IMMERSE Log
 ---
 
-### [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+[My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
 
 ### Week 3: May 10, 2021
