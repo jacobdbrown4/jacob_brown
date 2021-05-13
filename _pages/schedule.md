@@ -16,6 +16,6 @@ title: Schedule
 * **Friday**:
   * 9:30 AM - 3:30 PM
 
-### When I'll Be Out of Town
-  * 2nd week of July
+### Days Not Working
+  * July 14 - July 16
   * First week in August
