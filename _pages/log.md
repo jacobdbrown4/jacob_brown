@@ -27,6 +27,9 @@ title: IMMERSE Log
   * meetings
   * Bootcamp - python
 * **Thursday**:
+  * add personal website link to CCL website
+  * python bootcamp follow up activity - csv_parser
+  * learn about is_downto, is_scalar, and lower index from Dallin
 * **Friday**:
 
 ### Week 2: May 3, 2021
