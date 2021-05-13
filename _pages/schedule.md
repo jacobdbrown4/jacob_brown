@@ -2,6 +2,7 @@
 layout: default
 title: Schedule
 ---
+### [My Log](https://jacobdbrown4.github.io/jacob_brown//pages/log/)
 
 ### Regular Schedule
 
