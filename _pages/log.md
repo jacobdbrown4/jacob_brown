@@ -11,25 +11,26 @@ title: IMMERSE Log
 * **Monday**:
   * tools meeting
   * Bootcamp - Python
-  * keep working on beginning learning SpyDrNet documentation
-  * improve print connections function for netlists
+  * kept working on beginning learning SpyDrNet documentation
+  * improved print connections function for netlists
   * read articles for Ethics
 * **Tuesday**:
-  * finish functions for displaying design information
-  * clean up Learning SpyDrNet google doc
-  * make more edits to mostly spelling in documentation
-  * make markdown version of cheat sheet
+  * finished functions for displaying design information
+  * cleaned up Learning SpyDrNet google doc
+  * made more edits to mostly spelling in documentation
+  * made markdown version of cheat sheet
   * reviewed other SpyDrNet examples in the documentation 
-  * finish reading articles for Ethics
+  * finished reading articles for Ethics
 * **Wednesday**:
-  * add definitions cheat sheet and tips for learning spydrnet to the wiki
+  * added definitions cheat sheet and tips for learning spydrnet to the wiki
   * also learned more markdown as I did that
   * meetings
   * Bootcamp - python
 * **Thursday**:
-  * add personal website link to CCL website
+  * added personal website link to CCL website
   * python bootcamp follow up activity - csv_parser
-  * learn about is_downto, is_scalar, and lower index from Dallin
+  * learned about is_downto, is_scalar, and lower index from Dallin
+  * looked through spydrnet wiki and read all that
 * **Friday**:
 
 ### Week 2: May 3, 2021
@@ -37,23 +38,23 @@ title: IMMERSE Log
 * **Monday**:
   * tools meeting
   * bootcamp - VSCode
-  * work on assigned SpyDrNet issues
+  * worked on assigned SpyDrNet issues
 * **Tuesday**:
-  * get started on fixing minor errors in SpyDrNet documentation
-  * work on Issue #130 for SpyDrNet
-  * figure out parts of SpyDrNet like instances, references, children, parents
-  * try out SpyDrNet by parsing my FourFunctions project from 220
+  * got started on fixing minor errors in SpyDrNet documentation
+  * worked on Issue #130 for SpyDrNet
+  * figured out parts of SpyDrNet like instances, references, children, parents
+  * tried out SpyDrNet by parsing my FourFunctions project from 220
 * **Wednesday**:
-  * begin documenting things I've done to learn SpyDrNet
+  * began documenting things I've done to learn SpyDrNet
   * meetings
   * Bootcamp - make
 * **Thursday**:
-  * learn more about cables, wires, ports, and pins in SpyDrNet
-  * write functions to display information about netlists
+  * learned more about cables, wires, ports, and pins in SpyDrNet
+  * wrote functions to display information about netlists
 * **Friday**:
-  * continue to learn cables, wires, ports, pins
-  * talk to Dallin about inner pins, outer pins, metadata, EDIF.properties and Verilog.properties dictionaries
-  * practice writing various python functions to show connectivity of design
+  * continued to learn cables, wires, ports, pins
+  * talked to Dallin about inner pins, outer pins, metadata, EDIF.properties and Verilog.properties dictionaries
+  * practiced writing various python functions to show connectivity of design
   * Bootcamp - CMake
 
 ### Week 1: April 26, 2021
@@ -64,17 +65,17 @@ title: IMMERSE Log
 * **Tuesday**: 
   * linux tutorial
   * website setup
-  * start looking at spydrnet
+  * started looking at spydrnet
   * other various computer setup things
 * **Wednesday**: 
   * meetings
   * BootCamp - Git
 * **Thursday**:
   * learn Git
-  * finish website setup
+  * finished website setup
   * ethics outreach reading 
 * **Friday**:
-  * meet with Dallin about SpydrNet
-  * learn more SpydrNet
+  * met with Dallin about SpydrNet
+  * learned more SpydrNet
   * ethics outreach reading
   * BootCamp - Github
