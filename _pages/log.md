@@ -32,6 +32,11 @@ title: IMMERSE Log
   * learned about is_downto, is_scalar, and lower index from Dallin
   * looked through spydrnet wiki and read all that
 * **Friday**:
+  * got set up with the spydrnet-shrec repo
+  * learned about hierarchal references
+  * came up with a list with Ben of starting points for spydrnet-shrec documentation
+  * experiment with the TMR tool with Ben
+  * Bootcamp - Python
 
 ### Week 2: May 3, 2021
 
