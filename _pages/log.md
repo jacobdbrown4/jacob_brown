@@ -5,6 +5,22 @@ title: IMMERSE Log
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
+### Week 4: May 17, 2021
+* **Weekly Goals** :
+  * add the two functions to help show the SpyDrNet flatten and uniquify examples working
+  * help with the SpyDrNet 1.8.1 release. Learn how to do a release.
+  * begin documenting SpyDrNet Shrec with Ben 
+  * write and submit summer proposal paper for IMMERSE
+  * participate in Bootcamp and do the follow up activities to learn more
+
+* **Monday**:
+  * added function to SpyDrNet Flatten Netlist example to show the hierarchy of the netlist before and after flattening
+  * added function  to SpydrNet Make Unique Instances example to show the definitions in each library before and after making each instance a unique definition
+  * 
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
 
 ### Week 3: May 10, 2021
 
