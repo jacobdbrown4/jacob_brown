@@ -9,14 +9,14 @@ title: IMMERSE Log
 * **Weekly Goals** :
   * add the two functions to help show the SpyDrNet flatten and uniquify examples working
   * help with the SpyDrNet 1.8.1 release. Learn how to do a release.
-  * begin documenting SpyDrNet Shrec with Ben 
+  * begin documenting SpyDrNet Shrec with Ben - make a plan for what each page will have 
   * write and submit summer proposal paper for IMMERSE
   * participate in Bootcamp and do the follow up activities to learn more
 
 * **Monday**:
   * added function to SpyDrNet Flatten Netlist example to show the hierarchy of the netlist before and after flattening
   * added function  to SpydrNet Make Unique Instances example to show the definitions in each library before and after making each instance a unique definition
-  * 
+  * added functions to minimal.py to display the netlist created from scratch 
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
