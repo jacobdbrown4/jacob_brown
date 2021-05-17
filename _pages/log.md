@@ -12,11 +12,14 @@ title: IMMERSE Log
   * begin documenting SpyDrNet Shrec with Ben - make a plan for what each page will have 
   * write and submit summer proposal paper for IMMERSE
   * participate in Bootcamp and do the follow up activities to learn more
+  * read up about TMR (the paper Jordi shared)
 
 * **Monday**:
   * added function to SpyDrNet Flatten Netlist example to show the hierarchy of the netlist before and after flattening
   * added function  to SpydrNet Make Unique Instances example to show the definitions in each library before and after making each instance a unique definition
   * added functions to minimal.py to display the netlist created from scratch 
+  * tools meeting
+  * Bootcamp - unit testing
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
