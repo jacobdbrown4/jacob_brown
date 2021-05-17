@@ -20,6 +20,8 @@ title: IMMERSE Log
   * added functions to minimal.py to display the netlist created from scratch 
   * tools meeting
   * Bootcamp - unit testing
+  * typed up research proposal paper
+  * began reading paper about DWC
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
