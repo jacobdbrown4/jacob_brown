@@ -27,6 +27,8 @@ title: IMMERSE Log
   * added a little more explanation to some of the example functions as well to explain the part I added (the functions to print the netlist hierarchy or libraries and definitions before and after to show it working)
   * experimented with pytest
   * finished and submitted research proposal
+  * finished reading the DWC paper and began reading TMR paper
+  * explored the TMR tool a little bit
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
