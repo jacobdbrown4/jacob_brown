@@ -23,6 +23,9 @@ title: IMMERSE Log
   * typed up research proposal paper
   * began reading paper about DWC
 * **Tuesday**:
+  * added display_info.py to examples that contains 3 functions to help display netlist information. I originally added them to minimal.py but then took them off and did this instead
+  * added a little more explanation to some of the example functions as well to explain the part I added (the functions to print the netlist hierarchy or libraries and definitions before and after to show it working)
+  * experiment with pytest
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
