@@ -30,6 +30,7 @@ title: IMMERSE Log
   * finished reading the DWC paper and began reading TMR paper
   * explored the TMR tool a little bit
 * **Wednesday**:
+  * wrote function to display number of times each primitive is instanced before and after triplicating. 
 * **Thursday**:
 * **Friday**:
 
