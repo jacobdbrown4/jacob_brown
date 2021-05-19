@@ -31,6 +31,8 @@ title: IMMERSE Log
   * explored the TMR tool a little bit
 * **Wednesday**:
   * wrote function to display number of times each primitive is instanced before and after triplicating. 
+  * meetings
+  * Bootcamp - documenting/Sphinx
 * **Thursday**:
 * **Friday**:
 
