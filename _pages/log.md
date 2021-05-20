@@ -5,6 +5,14 @@ title: IMMERSE Log
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
+### Week 5: May 24, 2021
+* **Weekly Goals** :
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 4: May 17, 2021
 * **Weekly Goals** :
   * add the two functions to help show the SpyDrNet flatten and uniquify examples working
@@ -23,7 +31,7 @@ title: IMMERSE Log
   * typed up research proposal paper
   * began reading paper about DWC
 * **Tuesday**:
-  * added display_info.py to examples that contains 3 functions to help display netlist information. I originally added them to minimal.py but then took them off and did this instead
+  * added display_info.py to examples - it contains 3 functions to help display netlist information. I originally added them to minimal.py but then took them off and did this instead
   * added a little more explanation to some of the example functions as well to explain the part I added (the functions to print the netlist hierarchy or libraries and definitions before and after to show it working)
   * experimented with pytest
   * finished and submitted research proposal
@@ -33,7 +41,11 @@ title: IMMERSE Log
   * wrote function to display number of times each primitive is instanced before and after triplicating. 
   * meetings
   * Bootcamp - documenting/Sphinx
+  * spent some time looking at visualization tool from JensRestemeier in SpyDrNet issue #130
 * **Thursday**:
+  * added instance_counting function to display_info example
+  * added link to JensRestemeier's visualization tool repo to display_info example
+  * worked on SpyDrNet SHREC install page
 * **Friday**:
 
 ### Week 3: May 10, 2021
