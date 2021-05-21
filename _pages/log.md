@@ -46,6 +46,7 @@ title: IMMERSE Log
   * added instance_counting function to display_info example
   * added link to JensRestemeier's visualization tool repo to display_info example
   * worked on SpyDrNet SHREC install page
+  * worked on ethics case study
 * **Friday**:
 
 ### Week 3: May 10, 2021
