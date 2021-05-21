@@ -7,6 +7,11 @@ title: IMMERSE Log
 
 ### Week 5: May 24, 2021
 * **Weekly Goals** :
+  * continue reading the TMR paper
+  * explore SpyDrNet SHREC tools more
+  * finish doing the new release with Ben, Jordi, and Dallin
+  * continue working on SpyDrNet SHREC documentation - work with Ben
+  * after new release for SpyDrNet, figure out where to go next
 * **Monday**:
 * **Tuesday**:
 * **Wednesday**:
@@ -48,6 +53,9 @@ title: IMMERSE Log
   * worked on SpyDrNet SHREC install page
   * worked on ethics case study
 * **Friday**:
+  * meet with Andrew and Ben over Zoom to learn more about SpyDrNet SHREC
+  * Bootcamp - Docker
+  * started doing new release with Jordi and Ben - merged all our branches
 
 ### Week 3: May 10, 2021
 
