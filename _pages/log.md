@@ -13,6 +13,9 @@ title: IMMERSE Log
   * continue working on SpyDrNet SHREC documentation - work with Ben
   * after new release for SpyDrNet, figure out where to go next
 * **Monday**:
+  * finished the 1.8.1 release
+  * Bootcamp - FPGA Overview
+  * worked on improving SpyDrNet tutorial
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
