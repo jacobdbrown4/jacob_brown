@@ -17,6 +17,10 @@ title: IMMERSE Log
   * Bootcamp - FPGA Overview
   * worked on improving SpyDrNet tutorial
 * **Tuesday**:
+  * worked on improving SpyDrNet tutorial
+  * looked at some issues on the SpyDrNet github
+  * added instance_count function to the SpyDrNet SHREC example plot_generic_tmr.py
+  * experimented with and learned more about SpyDrNet 'getter' functions and their parameters
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
