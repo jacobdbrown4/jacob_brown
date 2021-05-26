@@ -22,6 +22,10 @@ title: IMMERSE Log
   * added instance_count function to the SpyDrNet SHREC example plot_generic_tmr.py
   * experimented with and learned more about SpyDrNet 'getter' functions and their parameters
 * **Wednesday**:
+  * worked on improving SpyDrNet tutorial
+  * meetings
+  * Bootcamp - Vivado
+  * review Vivado basics
 * **Thursday**:
 * **Friday**:
 
