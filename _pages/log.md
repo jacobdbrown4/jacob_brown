@@ -25,8 +25,11 @@ title: IMMERSE Log
   * worked on improving SpyDrNet tutorial
   * meetings
   * Bootcamp - Vivado
-  * review Vivado basics
+  * reviewed Vivado basics
 * **Thursday**:
+  * started working on a simple tmr example
+  * worked on improving SpyDrNet tutorial
+  * made small edits throughout the SpyDrNet documentation (mostly typos and such)
 * **Friday**:
 
 ### Week 4: May 17, 2021
