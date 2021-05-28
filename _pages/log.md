@@ -5,6 +5,20 @@ title: IMMERSE Log
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
+### Week 6: May 31, 2021
+* **Weekly Goals** :
+  * spend some more time learning about TMR in SpyDrNet SHREC
+  * work on SpyDrNet SHREC tutorial and examples with Ben
+  * continue reading TMR paper
+  * work on ethics case study
+  * finish Bootcamp Vivado activities
+  * figure out what to do next for SpyDrNet
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 5: May 24, 2021
 * **Weekly Goals** :
   * continue reading the TMR paper
@@ -30,7 +44,11 @@ title: IMMERSE Log
   * started working on a simple tmr example
   * worked on improving SpyDrNet tutorial
   * made small edits throughout the SpyDrNet documentation (mostly typos and such)
+  * started working through the Bootcamp Vivado activities about tcl and testbenches
 * **Friday**:
+  * edited typos in INSTALL.rst of SpyDrNet
+  * met with Andrew Keller and Ben to discuss more things about SpyDrNet SHREC
+  * worked on making a function to look at the paths in a circuit and compare it with itself after TMR (to see if the paths still exist) 
 
 ### Week 4: May 17, 2021
 * **Weekly Goals** :
