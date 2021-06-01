@@ -14,6 +14,8 @@ title: IMMERSE Log
   * finish Bootcamp Vivado activities
   * figure out what to do next for SpyDrNet
 * **Monday**:
+  * tools meetings
+  * worked on making a function to look at the paths in a circuit and compare it with itself after TMR (to see if the paths still exist). Basic way to check TMR tool
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:

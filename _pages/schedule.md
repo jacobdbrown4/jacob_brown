@@ -7,7 +7,7 @@ title: Schedule
 ### Regular Schedule
 
 * **Monday**:
-  * 12 PM - 5 PM
+  * 9:30 AM - 3:30 PM
 * **Tuesday**:
   * 12:45 PM - 5:45 PM
 * **Wednesday**:
