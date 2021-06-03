@@ -4,6 +4,12 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+### Week 7: June 7, 2021
+* **Weekly Goals**:
+  * Keep working on SpyDrNet SHREC documentation: tutorial, start other parts
+  * work on SpyDrNet SHREC example
+  * work on IMMERSE presentation
+  * work on ethics case study
 
 ### Week 6: May 31, 2021
 * **Weekly Goals** :
@@ -23,6 +29,9 @@ title: IMMERSE Log
   * meetings
   * worked on IMMERSE presentation
 * **Thursday**:
+  * finished up improving SpyDrNet tutorial
+  * started working on SpyDrNet SHREC tutorial
+  * spent some time learning the TMR tool
 * **Friday**:
 
 ### Week 5: May 24, 2021
