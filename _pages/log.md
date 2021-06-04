@@ -17,7 +17,7 @@ title: IMMERSE Log
 * **Friday**:
 
 ### Week 6: May 31, 2021
-* **Weekly Goals** :
+**Weekly Goals** :
   * spend some more time learning about TMR in SpyDrNet SHREC
   * work on SpyDrNet SHREC tutorial and examples with Ben
   * continue reading TMR paper
