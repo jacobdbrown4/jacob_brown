@@ -10,6 +10,11 @@ title: IMMERSE Log
   * work on SpyDrNet SHREC example
   * work on IMMERSE presentation
   * work on ethics case study
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
 
 ### Week 6: May 31, 2021
 * **Weekly Goals** :
@@ -33,6 +38,8 @@ title: IMMERSE Log
   * started working on SpyDrNet SHREC tutorial
   * spent some time learning the TMR tool
 * **Friday**:
+  * worked on IMMERSE presentation
+  * added a page for voters and detectors in the documentation
 
 ### Week 5: May 24, 2021
 * **Weekly Goals** :
