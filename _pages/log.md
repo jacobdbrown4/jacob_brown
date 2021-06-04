@@ -40,6 +40,7 @@ title: IMMERSE Log
 * **Friday**:
   * worked on IMMERSE presentation
   * added a page for voters and detectors in the documentation
+  * tried out doing DWC
 
 ### Week 5: May 24, 2021
 * **Weekly Goals** :
