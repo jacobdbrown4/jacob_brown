@@ -8,6 +8,7 @@ title: IMMERSE Log
 * **Weekly Goals**:
   * Keep working on SpyDrNet SHREC documentation: tutorial, start other parts
   * work on SpyDrNet SHREC example
+  * get better at doing TMR and DWC for designs
   * work on IMMERSE presentation
   * work on ethics case study
 * **Monday**:
