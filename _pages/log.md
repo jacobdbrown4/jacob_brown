@@ -12,6 +12,9 @@ title: IMMERSE Log
   * work on IMMERSE presentation
   * work on ethics case study
 * **Monday**:
+  * tutorial page
+  * meeting
+  * Google guest speaker
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
