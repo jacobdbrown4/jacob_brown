@@ -16,6 +16,10 @@ title: IMMERSE Log
   * meeting
   * Google guest speaker
 * **Tuesday**:
+  * worked on ethics case study presentation
+  * finished simple TMR and DWC examples
+  * finished SpyDrNet SHREC tutorial page
+  * worked on SpyDrNet SHREC presentation
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
