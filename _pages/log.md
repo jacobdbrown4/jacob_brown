@@ -21,6 +21,9 @@ title: IMMERSE Log
   * finished SpyDrNet SHREC tutorial page
   * worked on SpyDrNet SHREC presentation
 * **Wednesday**:
+  * finished ethics case study presentation
+  * presented ethics case study presentation in ethics impact group
+  * other IMMERSE meetings
 * **Thursday**:
 * **Friday**:
 
