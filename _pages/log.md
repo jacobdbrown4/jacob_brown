@@ -25,6 +25,7 @@ title: IMMERSE Log
   * presented ethics case study presentation in ethics impact group
   * other IMMERSE meetings
 * **Thursday**:
+  * added several pages to SpyDrNet SHREC documentation including ones about organs, functions, and voter algorithms.
 * **Friday**:
 
 ### Week 6: May 31, 2021
