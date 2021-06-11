@@ -4,6 +4,18 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+### Week 8: June 14, 2021
+* **Weekly Goals**:
+  * Come up with another TMR and DWC example that is slightly more complicated
+  * finish presentation and present on Wednesday
+  * add the rest of the SpyDrNet SHREC classes and functions to the documentation 
+  * figure out what else needs to be added to SpyDrNet SHREC documentation
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 7: June 7, 2021
 * **Weekly Goals**:
   * Keep working on SpyDrNet SHREC documentation: tutorial, start other parts
@@ -27,6 +39,8 @@ title: IMMERSE Log
 * **Thursday**:
   * added several pages to SpyDrNet SHREC documentation including ones about organs, functions, and voter algorithms.
 * **Friday**:
+  * worked on presentation
+  * worked on another way to check the replication tool
 
 ### Week 6: May 31, 2021
 * **Weekly Goals** :
