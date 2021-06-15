@@ -11,7 +11,10 @@ title: IMMERSE Log
   * add the rest of the SpyDrNet SHREC classes and functions to the documentation 
   * figure out what else needs to be added to SpyDrNet SHREC documentation
 * **Monday**:
+  * finished adding SpyDrNet SHREC classes and functions to documentation
 * **Tuesday**:
+  * added a little more to my presentation and practiced it
+  * tried different things with SpyDrNet SHREC 
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
