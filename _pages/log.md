@@ -16,6 +16,7 @@ title: IMMERSE Log
   * added a little more to my presentation and practiced it
   * tried different things with SpyDrNet SHREC 
 * **Wednesday**:
+  * finalized presentation
 * **Thursday**:
 * **Friday**:
 

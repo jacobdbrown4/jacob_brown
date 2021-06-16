@@ -18,5 +18,6 @@ title: Schedule
   * 9:30 AM - 3:30 PM
 
 ### Days Not Working
-  * July 14 - July 16
-  * First week in August
+  * June 18 - helping brother move
+  * July 14 - July 16 - out of town
+  * First week in August - out of town
