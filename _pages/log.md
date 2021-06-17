@@ -4,6 +4,18 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+
+### Week 9: June 21, 2021
+* **Weekly Goals**:
+  * look for other things that need to be added to the SpyDrNet SHREC documentation
+  * improve docstrings on some of the SpyDrNet SHREC functions
+  * come up with other checks/tests for SpyDrNet SHREC
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 8: June 14, 2021
 * **Weekly Goals**:
   * Come up with another TMR and DWC example that is slightly more complicated
@@ -16,8 +28,10 @@ title: IMMERSE Log
   * added a little more to my presentation and practiced it
   * tried different things with SpyDrNet SHREC 
 * **Wednesday**:
-  * finalized presentation
+  * finalized presentation and presented it
+  * other meetings
 * **Thursday**:
+  * added check_replication_by_step (module that will make sure the partitions in an original and modified design match up) to SpyDrNet SHREC tests
 * **Friday**:
 
 ### Week 7: June 7, 2021
