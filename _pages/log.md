@@ -11,6 +11,9 @@ title: IMMERSE Log
   * improve docstrings on some of the SpyDrNet SHREC functions
   * come up with other checks/tests for SpyDrNet SHREC
 * **Monday**:
+  * fixed a part of the function used in the test I made last week
+  * spent some time learning more about cables and wires in the SpyDrNet IR
+  * then I added index() to wire documentation for SpyDrNet
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
