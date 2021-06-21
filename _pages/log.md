@@ -33,6 +33,7 @@ title: IMMERSE Log
 * **Thursday**:
   * added check_replication_by_step (module that will make sure the partitions in an original and modified design match up) to SpyDrNet SHREC tests
 * **Friday**:
+  * did not work
 
 ### Week 7: June 7, 2021
 * **Weekly Goals**:
