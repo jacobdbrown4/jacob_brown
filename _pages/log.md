@@ -15,6 +15,11 @@ title: IMMERSE Log
   * spent some time learning more about cables and wires in the SpyDrNet IR
   * then I added index() to wire documentation for SpyDrNet
 * **Tuesday**:
+  * met with Jordi to go over the release process
+  * improved the spydrnet example I made (display_info)
+  * experimented with accessing properties and other useful information of instances
+  * added a test to feed the check_replication_by_step the wrong stuff and make sure it returns false
+  * added a test to SpyDrNet SHREC to check the properties of instances in a replicated netlist against the properties of instances in an original netlist
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
