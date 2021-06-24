@@ -21,7 +21,10 @@ title: IMMERSE Log
   * added a test to feed the check_replication_by_step the wrong stuff and make sure it returns false
   * added a test to SpyDrNet SHREC to check the properties of instances in a replicated netlist against the properties of instances in an original netlist
 * **Wednesday**:
+  * added example to show uniquify_nmr_property() working
+  * added test to test uniquify_nmr_property() function
 * **Thursday**:
+  * Did a small SpyDrNet release with Jordi and Ben
 * **Friday**:
 
 ### Week 8: June 14, 2021
