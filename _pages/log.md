@@ -5,6 +5,17 @@ title: IMMERSE Log
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
+### Week 10: June 28, 2021
+* **Weekly Goals**:
+  * add docstring to pin_clock_domain_analysis and find_synchronizers functions explaining what the functions do
+  * work on more tests for SpyDrNet SHREC
+  * work on other parts of the SpyDrNet SHREC documentation
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 9: June 21, 2021
 * **Weekly Goals**:
   * look for other things that need to be added to the SpyDrNet SHREC documentation
@@ -26,6 +37,8 @@ title: IMMERSE Log
 * **Thursday**:
   * Did a small SpyDrNet release with Jordi and Ben
 * **Friday**:
+  * met with Ben and Andrew
+  * worked on SpyDrNet SHREC tests
 
 ### Week 8: June 14, 2021
 * **Weekly Goals**:
