@@ -11,8 +11,13 @@ title: IMMERSE Log
   * work on more tests for SpyDrNet SHREC
   * work on other parts of the SpyDrNet SHREC documentation
 * **Monday**:
+  * tools meeting
+  * worked on making a design rule check that works for every example
 * **Tuesday**:
+  * worked half day
+  * worked on making more little design rule check functions
 * **Wednesday**:
+  * improved one of my drc functions. Found a bug from it too, actually.
 * **Thursday**:
 * **Friday**:
 
