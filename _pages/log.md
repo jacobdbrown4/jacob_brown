@@ -5,6 +5,17 @@ title: IMMERSE Log
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 
+### Week 11: July 5, 2021
+* **Weekly Goals**:
+  * figure out the possible bugs in SpyDrNet SHREC with Andrew
+  * test my design rule check with more designs
+  * actually work on my case study analysis for Ethics broader impacts group
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 10: June 28, 2021
 * **Weekly Goals**:
   * add docstring to pin_clock_domain_analysis and find_synchronizers functions explaining what the functions do
@@ -19,7 +30,11 @@ title: IMMERSE Log
 * **Wednesday**:
   * improved one of my drc functions. Found a bug from it too, actually.
 * **Thursday**:
+  * worked on drc and started testing it with some bigger designs.
+  * started installing Vivado 2019.1 to build Andy's RISC-V design
 * **Friday**:
+  * triplicated a ECEN 220 project and ran the drc on it. Found some interesting things (possibly bugs in the replication)
+  * tried building Andy's tcl and python scripts but got stopped by errors 
 
 ### Week 9: June 21, 2021
 * **Weekly Goals**:
