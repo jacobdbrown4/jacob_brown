@@ -13,10 +13,11 @@ title: IMMERSE Log
 * **Tuesday**:
   * worked on SpyDrNet SHREC documentation a little bit
   * looked at the bug and documented more examples in preparation for meeting with Andrew about it
-  * spent some time looking through the apply_nmr() function in SpyDrNet SHREC. Found out that the problem isn't a bug in spydrnet SHREC but is from a bug just discovered in SpyDrNet, probably the EDIF parser.
+  * spent some time looking through the apply_nmr() function in SpyDrNet SHREC. Found out that the problem isn't a bug in spydrnet SHREC but is from a bug in SpyDrNet, probably the EDIF parser.
 * **Wednesday**:
   * looked through the EDIF parser a little bit
   * tried to figure out what pin_clock_domain_analysis in SpyDrNet SHREC does
+  * read a bunch of the TMR paper
 * **Thursday**:
 * **Friday**:
 

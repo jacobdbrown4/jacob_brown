@@ -19,5 +19,6 @@ title: Schedule
 
 ### Days Not Working
   * June 18 - helping brother move
+  * July 8 - family reunion
   * July 14 - July 16 - out of town
   * First week in August - out of town
