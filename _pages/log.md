@@ -10,9 +10,13 @@ title: IMMERSE Log
   * figure out the possible bugs in SpyDrNet SHREC with Andrew
   * test my design rule check with more designs
   * actually work on my case study analysis for Ethics broader impacts group
-* **Monday**:
 * **Tuesday**:
+  * worked on SpyDrNet SHREC documentation a little bit
+  * looked at the bug and documented more examples in preparation for meeting with Andrew about it
+  * spent some time looking through the apply_nmr() function in SpyDrNet SHREC. Found out that the problem isn't a bug in spydrnet SHREC but is from a bug just discovered in SpyDrNet, probably the EDIF parser.
 * **Wednesday**:
+  * looked through the EDIF parser a little bit
+  * tried to figure out what pin_clock_domain_analysis in SpyDrNet SHREC does
 * **Thursday**:
 * **Friday**:
 
@@ -35,6 +39,7 @@ title: IMMERSE Log
 * **Friday**:
   * triplicated a ECEN 220 project and ran the drc on it. Found some interesting things (possibly bugs in the replication)
   * tried building Andy's tcl and python scripts but got stopped by errors 
+  * found and contacted Dallin about a bug in the SpyDrNet edif parser.
 
 ### Week 9: June 21, 2021
 * **Weekly Goals**:
