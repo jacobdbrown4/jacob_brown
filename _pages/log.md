@@ -4,6 +4,12 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+### Week 12: July 12, 2021
+* **Weekly Goals**:
+  * learn more of the spydrnet SHREC functions (like pin_clock_domain_analysis, find synchronizers, surface_pins, etc.) and learn what they do to help in making documentation
+  * finish reading the TMR paper
+  * keep working on the nexys4ddr.edf and make sure it works through SpyDrNet SHREC
+  * plan the next spydrnet release with the edf parser fix
 
 ### Week 11: July 5, 2021
 * **Weekly Goals**:
@@ -17,9 +23,14 @@ title: IMMERSE Log
 * **Wednesday**:
   * looked through the EDIF parser a little bit
   * tried to figure out what pin_clock_domain_analysis in SpyDrNet SHREC does
-  * read a bunch of the TMR paper
+  * read a bunch of the TMR paper (Jonathan Johnson)
 * **Thursday**:
+  * Did not work
 * **Friday**:
+  * spent some time messing around with surface_pins.py in SpyDrNet SHREC to try to figure out what it does and how it works
+  * met with Andrew about spydrnet SHREC in general
+  * met with Dallin about edif parser bug. He fixed it.
+  * worked with Dr. Wirthlin, Andrew, and Dallin on getting the nexys4ddr.edf design to go through SpyDrNet SHREC
 
 ### Week 10: June 28, 2021
 * **Weekly Goals**:
