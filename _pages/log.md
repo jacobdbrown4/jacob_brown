@@ -4,12 +4,35 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+#Week 13: July 19, 2021
+* **Weekly Goals**:
+  * finish cleaning up the drc code and finalize it
+  * keep working on SpyDrNet SHREC documentation
+  * do a spydrnet shrec release? Find a day to do that
+  * do a spydrnet release? Find a day to do that
+* ** Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 ### Week 12: July 12, 2021
 * **Weekly Goals**:
   * learn more of the spydrnet SHREC functions (like pin_clock_domain_analysis, find synchronizers, surface_pins, etc.) and learn what they do to help in making documentation
   * finish reading the TMR paper
   * keep working on the nexys4ddr.edf and make sure it works through SpyDrNet SHREC
   * plan the next spydrnet release with the edf parser fix
+* **Monday**:
+  * worked on more SpyDrNet SHREC including making a surface_pins() example
+* **Tuesday**:
+  * added a little more to the documentation
+  * worked on making the drc faster (it takes a while on big designs)
+* **Wednesday**:
+  * made drc faster and cleaned up the code
+* **Thursday**:
+  * did not work
+* **Friday**:
+  * did not work
 
 ### Week 11: July 5, 2021
 * **Weekly Goals**:
