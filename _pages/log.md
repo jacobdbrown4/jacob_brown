@@ -10,8 +10,14 @@ title: IMMERSE Log
   * keep working on SpyDrNet SHREC documentation
   * do a spydrnet shrec release? Find a day to do that
   * do a spydrnet release? Find a day to do that
-* ** Monday**:
+* **Monday**:
+  * tools meeting
+  * added the script for replicating 'nexys4ddr' to the SpyDrNet SHREC examples
+  * worked on other documentation
+  * added documenation for the DRC
 * **Tuesday**:
+  * SpyDrNet 1.8.3 release
+  * worked on more spydrnet shrec docs
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
