@@ -4,6 +4,17 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+#Week 14: July 26, 2021
+* **Weekly Goals**:
+  * SpyDrNet SHREC documentation
+  * finish the check for surface_pins() and think of other checks to do
+  * work on case study for ethics broader impacts group
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 #Week 13: July 19, 2021
 * **Weekly Goals**:
   * finish cleaning up the drc code and finalize it
@@ -19,8 +30,15 @@ title: IMMERSE Log
   * SpyDrNet 1.8.3 release
   * worked on more spydrnet shrec docs
 * **Wednesday**:
+  * SpyDrNet SHREC 1.1.0 release
+  * worked on documentation
+  * meetings
+  * travis CI should now be set up for SpyDrNet SHREC and good to go
 * **Thursday**:
+  * added some tests to spydrnet shrec and improved some of the existing ones
+  * worked on the shrec documentation
 * **Friday**:
+  * started working on a small check to make sure surfaced_pins() works
 
 ### Week 12: July 12, 2021
 * **Weekly Goals**:
