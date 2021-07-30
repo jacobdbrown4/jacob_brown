@@ -4,16 +4,37 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+#Week 15: August 2, 2021
+* **Weekly Goals**:
+  * catch up with Ben and make a plan for what we want to do for the next SpyDrNet SHREC release
+  * keep working on other DRC checks
+  * note: I will be out of town Tuesday-Thursday
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 #Week 14: July 26, 2021
 * **Weekly Goals**:
   * SpyDrNet SHREC documentation
   * finish the check for surface_pins() and think of other checks to do
   * work on case study for ethics broader impacts group
 * **Monday**:
+  * finished making drc_surface_pins. I added it to surface_pins(). It will run the check after surface_pins executes to see if the pins were successfully surfaced. If it finds a problem, it will print a warning.
+  * worked on other documentation
+  * started making a function that will go back through a design that has been replicated and voters inserted and then see if there are any spots where reduction voters got missed.
 * **Tuesday**:
+  * finished making a function that identifies reduction voter insertion points. 
+  * added an example showing the drc in action.
 * **Wednesday**:
+  * wrote a function that finds the highest fanout flip flops in a design and returns their output pins. This is a simple voter insertion point algorithm
+  * worked on SpyDrNet SHREC documentation
 * **Thursday**:
+  * made an organ that contains both a voter and a detector. Not sure how helpful that is but it was cool. It will vote like normal and also signal if that particular TMR domain is different from the majority vote.
+  * worked on documentation
 * **Friday**:
+  * made a drc check for insert_organs()
 
 #Week 13: July 19, 2021
 * **Weekly Goals**:
