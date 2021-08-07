@@ -4,16 +4,36 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+#Week 16: August 9, 2021
+* **Weekly Goals**:
+  * work with Ben to separate SpyDrNet SHREC and SpyDrNet TMR
+  * finish case study analysis for ethics group and turn it in
+  * tests
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
 #Week 15: August 2, 2021
 * **Weekly Goals**:
   * catch up with Ben and make a plan for what we want to do for the next SpyDrNet SHREC release
   * keep working on other DRC checks
   * note: I will be out of town Tuesday-Thursday
 * **Monday**:
+  * tools meeting
+  * met with Ben, showed him my progress, and made a plan for SpyDrNet, SpyDrNet SHREC, and SpyDrNet TMR
 * **Tuesday**:
+  * worked on making insert_organs() able to support input pins
+  * added is_top_instance as an attribute to instances in spydrnet
 * **Wednesday**:
+  * out of town
 * **Thursday**:
+  * out of town
 * **Friday**:
+  * insert_organs() should now be able to support both output and input pins.
+  * insert_organs() can now be used to insert single reduction voters as well
+  * made identify_reduction_points() compatible with insert_organs()
 
 #Week 14: July 26, 2021
 * **Weekly Goals**:
