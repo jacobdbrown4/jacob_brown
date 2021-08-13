@@ -4,16 +4,29 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+# Week 17: August 16, 2021
+* **Weekly Goals**:
+  * work with Ben to finish setting up SpyDrNet TMR and hopefully release it
+  * 
+
 #Week 16: August 9, 2021
 * **Weekly Goals**:
   * work with Ben to separate SpyDrNet SHREC and SpyDrNet TMR
   * finish case study analysis for ethics group and turn it in
   * tests
 * **Monday**:
+  * added test for is_top_instance in spydrnet
+  * added a design rule check for uniquify_nmr_property()
 * **Tuesday**:
+  * added .get_driver() attribute wire in spydrnet
 * **Wednesday**:
+  * added test got .get_driver()
 * **Thursday**:
+  * added more tests to spydrnet to improve code coverage
+  * started reviewing what Ben had pushed to the spydrnet_tmr repo and started helping him with that
 * **Friday**:
+  * moved my updated code from SHREC over to the TMR repo
+  * worked on the documentation and making sure it'll build
 
 #Week 15: August 2, 2021
 * **Weekly Goals**:
