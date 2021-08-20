@@ -4,10 +4,30 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+# Week 18: August 23, 2021
+* **Weekly Goals**:
+  * work on improving documentation/tests/etc.
+  * finish making a version of SpyDrNet SHREC that relies on SpyDrNet TMR
+  * figure out what else I can do next
+
 # Week 17: August 16, 2021
 * **Weekly Goals**:
   * work with Ben to finish setting up SpyDrNet TMR and hopefully release it
-  * 
+* **Monday**:
+  * added .is_unique() attribute to both netlists and instances in the ir
+  * started documenting the example netlists but didn't get too far
+  * got travis ci working for spydrnet tmr
+* **Tuesday**:
+  * fixes, additions, and changes in SpyDrNet TMR in preparation for the release
+* **Wednesday**:
+  * released SpyDrNet TMR with Ben
+* **Thursday**:
+  * got accesss to the fpga server and started looking at Andrew's work
+  * worked on fixing the bug in finding reduction voter points 
+  * worked on making a version of SpyDrNet SHREC that relies on SpyDrNet TMR
+* **Friday**:
+  * improved drc_apply_nmr
+  * worked on the reduction voter bug more
 
 #Week 16: August 9, 2021
 * **Weekly Goals**:
