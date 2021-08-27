@@ -4,11 +4,23 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+# Week 19: August 30, 20201
+* **Weekly Goals**:
+  * make a plan for what to do during this semester
+
 # Week 18: August 23, 2021
 * **Weekly Goals**:
   * work on improving documentation/tests/etc.
   * finish making a version of SpyDrNet SHREC that relies on SpyDrNet TMR
   * figure out what else I can do next
+* **Monday, Tuesday**:
+  * worked on pytests
+  * wrote up two page summary of accomplishments this summary and submitted it on learning suite
+* **Wednesday, Thursday**:
+  * rewrote on of the drc checks, check_connections_after_replication_and_insertion. Made it a little more clear, and a lot faster.
+  * worked on version of SpyDrNet SHREC that is dependent on SpyDrNet TMR
+* **Friday**:
+  * met with Andrew about adding his partial tmr scripts to the spydrnet shrec repository, as well as other things
 
 # Week 17: August 16, 2021
 * **Weekly Goals**:
