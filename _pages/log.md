@@ -4,9 +4,19 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
-# Week 19: August 30, 20201
+#Week 21: September 13, 2021
+* Worked on spydrnet example netlist issue
+* Worked on SpyDrNet_SHREC dependent (version that depends on Spydrnet TMR repo)
+
+#Week 20: September 6, 2021
+* Met with Dr. Wirthlin about things to do for the next few weeks
+* Looked into spydrnet example netlist issue
+
+# Week 19: August 30, 2021
 * **Weekly Goals**:
   * make a plan for what to do during this semester
+* **What I Did**:
+  * started documenting the problem with the reduction voters and a fix to the code to fix it
 
 # Week 18: August 23, 2021
 * **Weekly Goals**:
