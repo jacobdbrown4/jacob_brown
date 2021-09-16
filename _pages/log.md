@@ -4,11 +4,11 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
-#Week 21: September 13, 2021
+# Week 21: September 13, 2021
 * Worked on spydrnet example netlist issue
 * Worked on SpyDrNet_SHREC dependent (version that depends on Spydrnet TMR repo)
 
-#Week 20: September 6, 2021
+# Week 20: September 6, 2021
 * Met with Dr. Wirthlin about things to do for the next few weeks
 * Looked into spydrnet example netlist issue
 
