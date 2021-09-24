@@ -6,6 +6,7 @@ title: IMMERSE Log
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
 # Week 22: September 20, 2021
 * Worked on getting spydrnet ready for a release
+* Found what is causing the big netlists to be missing from the example netlists
 * Worked on the SpyDrNet SHREC dependent branch
 
 # Week 21: September 13, 2021
