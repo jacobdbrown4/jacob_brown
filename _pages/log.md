@@ -4,6 +4,11 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+# October
+* met with Ganesh Gore (U of U phd student)
+* made a suggestion to Ganesh about storing href information (see github issue 155)
+* released the last independent version of SpyDrNet SHREC
+
 # Week 23-24:
 * Worked on missing netlist issue
 
