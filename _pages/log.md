@@ -8,6 +8,8 @@ title: IMMERSE Log
 * met with Ganesh Gore (U of U phd student)
 * made a suggestion to Ganesh about storing href information (see github issue 155)
 * released the last independent version of SpyDrNet SHREC
+* worked on reviewing Ganesh's code and helping him with his contributions
+* updated SpyDrNet Bootcamp wiki page with more info to help new students
 
 # Week 23-24:
 * Worked on missing netlist issue
