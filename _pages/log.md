@@ -4,6 +4,10 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+# November
+* release SpyDrNet 1.9 with some of Ganesh's more minor contributions
+* research pytest and how they manage their plugins
+
 # October
 * met with Ganesh Gore (U of U phd student)
 * made a suggestion to Ganesh about storing href information (see github issue 155)
