@@ -4,40 +4,44 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
-# November
-* release SpyDrNet 1.9 with some of Ganesh's more minor contributions
-* research pytest and how they manage their plugins
+## December
+* wrote up a spydrnet wiki page about imports and *\_\_init\_\_.py* files
+* reviewed ganesh's pull request for extending spydrnet classes
 
-# October
+## November
+* released SpyDrNet 1.9 with some of Ganesh's more minor contributions
+* researched pytest and how they manage their plugins
+
+## October
 * met with Ganesh Gore (U of U phd student)
 * made a suggestion to Ganesh about storing href information (see github issue 155)
 * released the last independent version of SpyDrNet SHREC
 * worked on reviewing Ganesh's code and helping him with his contributions
 * updated SpyDrNet Bootcamp wiki page with more info to help new students
 
-# Week 23-24:
+### Week 23-24:
 * Worked on missing netlist issue
 
-# Week 22: September 20, 2021
+### Week 22: September 20, 2021
 * Worked on getting spydrnet ready for a release
 * Found what is causing the big netlists to be missing from the example netlists
 * Worked on the SpyDrNet SHREC dependent branch
 
-# Week 21: September 13, 2021
+### Week 21: September 13, 2021
 * Worked on spydrnet example netlist issue
 * Worked on SpyDrNet_SHREC dependent (version that depends on Spydrnet TMR repo)
 
-# Week 20: September 6, 2021
+### Week 20: September 6, 2021
 * Met with Dr. Wirthlin about things to do for the next few weeks
 * Looked into spydrnet example netlist issue
 
-# Week 19: August 30, 2021
+### Week 19: August 30, 2021
 * **Weekly Goals**:
   * make a plan for what to do during this semester
 * **What I Did**:
   * started documenting the problem with the reduction voters and a fix to the code to fix it
 
-# Week 18: August 23, 2021
+### Week 18: August 23, 2021
 * **Weekly Goals**:
   * work on improving documentation/tests/etc.
   * finish making a version of SpyDrNet SHREC that relies on SpyDrNet TMR
@@ -51,7 +55,7 @@ title: IMMERSE Log
 * **Friday**:
   * met with Andrew about adding his partial tmr scripts to the spydrnet shrec repository, as well as other things
 
-# Week 17: August 16, 2021
+### Week 17: August 16, 2021
 * **Weekly Goals**:
   * work with Ben to finish setting up SpyDrNet TMR and hopefully release it
 * **Monday**:
@@ -70,7 +74,7 @@ title: IMMERSE Log
   * improved drc_apply_nmr
   * worked on the reduction voter bug more
 
-#Week 16: August 9, 2021
+### Week 16: August 9, 2021
 * **Weekly Goals**:
   * work with Ben to separate SpyDrNet SHREC and SpyDrNet TMR
   * finish case study analysis for ethics group and turn it in
@@ -89,7 +93,7 @@ title: IMMERSE Log
   * moved my updated code from SHREC over to the TMR repo
   * worked on the documentation and making sure it'll build
 
-#Week 15: August 2, 2021
+### Week 15: August 2, 2021
 * **Weekly Goals**:
   * catch up with Ben and make a plan for what we want to do for the next SpyDrNet SHREC release
   * keep working on other DRC checks
@@ -109,7 +113,7 @@ title: IMMERSE Log
   * insert_organs() can now be used to insert single reduction voters as well
   * made identify_reduction_points() compatible with insert_organs()
 
-#Week 14: July 26, 2021
+### Week 14: July 26, 2021
 * **Weekly Goals**:
   * SpyDrNet SHREC documentation
   * finish the check for surface_pins() and think of other checks to do
@@ -130,7 +134,7 @@ title: IMMERSE Log
 * **Friday**:
   * made a drc check for insert_organs()
 
-#Week 13: July 19, 2021
+### Week 13: July 19, 2021
 * **Weekly Goals**:
   * finish cleaning up the drc code and finalize it
   * keep working on SpyDrNet SHREC documentation
