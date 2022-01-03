@@ -4,9 +4,14 @@ title: IMMERSE Log
 ---
 
 [My Schedule](https://jacobdbrown4.github.io/jacob_brown//pages/schedule/)
+## January
+* released SpyDrNet 1.10.1 for a few bug fixes
+* IMMERSE 2022 application
+
 ## December
 * wrote up a spydrnet wiki page about imports and *\_\_init\_\_.py* files
 * reviewed ganesh's pull request for extending spydrnet classes
+* released SpyDrNet 1.10.0 with extension capability
 
 ## November
 * released SpyDrNet 1.9 with some of Ganesh's more minor contributions
