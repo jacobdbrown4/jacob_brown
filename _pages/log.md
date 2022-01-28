@@ -7,6 +7,7 @@ title: IMMERSE Log
 ## January
 * released SpyDrNet 1.10.1 for a few bug fixes
 * IMMERSE 2022 application
+* release SpyDrNet SHREC 1.3.0
 
 ## December
 * wrote up a spydrnet wiki page about imports and *\_\_init\_\_.py* files
